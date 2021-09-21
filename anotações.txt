@@ -1,0 +1,22 @@
+Curso de programação do ProgBr - HTML
+
+Como navegar entre abas html:
+
+Usamos a TAG <a> para podermos navegar de uma pagina para outra. 
+Ex:
+
+<a href="sobre.html">Programador Br</a>
+
+
+E com isso nós podemos navegar entre as páginas HTML
+
+-----------------------------------------------------------------
+
+tag <img> para trabalhar com imagens
+ Ex: <img src="link da imagem" alt="sorvete">
+
+OBS: o alt facilita a vida do google e facilidade a vida de quem navega na internet e tem deficiencia visual
+
+como utilizar a img como se fosse o link:
+
+só colocar a tag <img> dentro da tag <a>
