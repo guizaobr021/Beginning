@@ -16,7 +16,8 @@ a {
   background-image: url(./img/backgorund.png);
   background-repeat: no-repeat;
   background-size: cover;
-  margin-left: 30px;
+  margin: auto;
+  margin-top: 18%;
   width: 500px;
   padding: 20px;
 }
