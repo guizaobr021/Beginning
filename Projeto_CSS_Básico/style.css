@@ -1,0 +1,38 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+}
+
+#containerPrincipal {
+  background-image: url(./img/backgorund.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 30px;
+  width: 500px;
+  padding: 20px;
+}
+
+h1 {
+  font-family: "Stick No Bills", sans-serif;
+}
+
+.icon-1 {
+  list-style-image: url("./img/Insta.png");
+}
+
+.icon-2 {
+  list-style-image: url("./img/Twitter.png");
+}
+
+.icon-3 {
+  list-style-image: url("./img/Youtube.png");
+}
